@@ -1,4 +1,4 @@
-import logging
+import logging1
 
 logging.basicConfig(filename = 'log1.txt',level =logging.warning)
 message = 'logging'
